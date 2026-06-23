@@ -1,0 +1,4 @@
+.familyImage{width:100%;height:132px;border-radius:18px;overflow:hidden;background:#eef7f1;margin:12px 0}
+.familyImage img{width:100%;height:100%;object-fit:contain;object-position:center;display:block;padding:6px}
+.familyImageModal{height:280px;margin:20px 0 8px}
+.familyCard{min-height:390px}
